@@ -1,5 +1,5 @@
 {
-  "name": "pupapiserver",
+  "name": "jsonserver",
   "version": "1.0.0",
   "description": "custom json-api server",
   "main": "server.js",
@@ -8,10 +8,10 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "adhikarirahul.com.np",
+  "author": "Saurbh Moynak",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.3",
+    "json-server": "^0.17.4",
     "nodemon": "^3.1.9"
   }
 }
